@@ -1,6 +1,7 @@
 # dark_castle_farm
 auto-blooner
 used with AutoHotKey
+for 1080 resolution
 
 Required:
 -Deflation mode unlocked on expert map, Dark Castle
