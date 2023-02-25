@@ -116,7 +116,7 @@ Loop {
     Sleep 200
     Click 1810, 1010
     Click 900, 900
-    InnerStartTime := A_TickCount ; Get the current tick count at the start of each inner loop iteration
+    InnerStartTime := A_TickCount ; Get the current tick count at the start the inner loop
     Duration := 312000 ; Set duration of PixelSearch loop so it only triggers during gameplay
     Loop ; Run the inner loop
     {
