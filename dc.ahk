@@ -22,7 +22,7 @@ Loop {
     MouseMove 1766, 412          ; scroll  
     Send, {Wheeldown 20}
     Sleep 100
-    Click 1713, 624               ;Ninja 1 
+    Click 1713, 475               ;Ninja 1 
     Sleep 100
     Click 798, 446
     Sleep 100
@@ -40,7 +40,7 @@ Loop {
     Sleep 100
     Click 1550, 780
     Sleep 100
-    Click 1713, 624              ; Ninja 2 
+    Click 1713, 475              ; Ninja 2 
     Sleep 100
     Click 733, 443
     Sleep 100
@@ -58,7 +58,7 @@ Loop {
     Sleep 100
     Click 1550, 780
     Sleep 100
-    Click 1713, 624           ; Ninja 3
+    Click 1713, 475           ; Ninja 3
     Sleep 100 
     Click 683, 407
     Sleep 100
@@ -76,7 +76,7 @@ Loop {
     Sleep 100
     Click 1550, 780
     Sleep 100
-    Click 1815, 620         ; Alchemist
+    Click 1815, 450         ; Alchemist
     Sleep 100
     Click 749, 388
     Sleep 100
@@ -90,7 +90,7 @@ Loop {
     Sleep 100
     Click 1550, 490
     Sleep 100
-    Click 1815, 620         ; Alchemist 2 
+    Click 1815, 450         ; Alchemist 2 
     Sleep 100
     Click 814, 389
     Sleep 100
@@ -101,9 +101,9 @@ Loop {
     Click 1550, 490
     Sleep 100
     MouseMove 1766, 412          ; scroll  
-    Send, {Wheeldown 30}
+    Send, {Wheelup 30}
     Sleep 100
-    Click 1830, 880              ; Sniper
+    Click 1830, 625              ; Sniper
     Sleep 100
     Click 1457, 559
     Sleep 100
