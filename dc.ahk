@@ -5,10 +5,10 @@ F7::
 Loop {    
     Click 800, 900          ; Play
     Sleep 500
-    Click 1400, 950	        ; Expert
-    Sleep 500
-    Click 1644, 428          ; Dark Castle
-    Click 1350, 250 
+    Click 1300, 950	    ; Expert Map
+    Click 1650, 420	    ; Next page of Expert maps
+    Click 500, 500          ; Dark Castle
+    Click 1350, 250 	    
     Sleep 500
     Click 550, 400          ; Easy
     Sleep 100
